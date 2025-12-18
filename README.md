@@ -58,7 +58,7 @@ You will need the following tools installed on your system:
 
 git clone
 
-https://github.com//ivy-925//ats-resume-analyser
+https://github.com/IvySingh-1/smart-ats-resume-analyser-v2.git
 
 cd ats-resume-analyser
 
